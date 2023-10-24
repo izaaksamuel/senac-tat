@@ -1,1 +1,2 @@
 Aprendendo a utilizar o github
+Até o momento instalação do LinuxMint,conhecimento básico sobre como mexer no sisitema operacional linux, instalação de navegadores Chrome,Opera e Microsoft Edge, atualização do sistema manual e automática do servidor,códigos de terminal e como utilizar o Github
