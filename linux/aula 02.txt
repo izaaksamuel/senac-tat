@@ -1,0 +1,164 @@
+Terminal: Bash / Shell Script
+$ = usuário comum
+# = super usuário
+==================================
+Comandos manipulação de diretórios
+ls -listar arquivos ou diretórios
+ls -lh (lisat da forma humana)
+la -mostar arquivos ocultos
+azul - diretórios - branco arquivos texto
+todo arquivo ou diretórios que começa com . é oculto
+cd = mudar de diretórios
+lib64 link simbólico (atalho)
+marca textop verde (perigo)
+cd - voltar um diretório antes
+ cd~ sempre volta para diretório pessoal
+cd .. = descer um nível
+pwd = qual diretório voce esta
+history = historico
+mkdir= criar diretorios
+mkdir -v = verboso
+mkdir -p = criar um diretorio dentro do outro   (-pv faz o mesmo)
+ -- help - mostra o que o comando pode fazer
+ 
+ rm - remover arquivos
+ f- FORÇAR
+ V- verboso
+ R- recursivo
+
+
+
+códigos já escritos
+
+
+
+
+1  /usr/bin/hollywood 
+    2  sudo
+    3  sudo apt
+    4  apt up
+    5  sudo apt up
+    6  sudo apt upgrade
+    7  sudo apt full upgrade
+    8  sudo apt full-upgrade
+    9  sudo apt full-upgrade 
+   10  sudo apt dist-upgrade
+   11  sudo apt dist-upgrade 
+   12  sudo apt autoremove
+   13  sudo apt autoremove 
+   14  sudo apt autoclean
+   15  sudo apt autoclean 
+   16  sudo apt clean
+   17  sudo apt update
+   18  sudo apt clean
+   19  history
+   20  sudo apt up
+   21  sudo apt install hollywood
+   22  hollywood 
+   23  sudo indut 0
+   24  sudo inut 0
+   25  sudo power off
+   26  sudo poweroff
+   27  sudo apt update 
+   28  sudo apt upgrade
+   29  sudo apt full-upgrade 
+   30  sudo apt dist-upgrade 
+   31  sudo apt autoremove 
+   32  sudo apt autoclean 
+   33  sudo apt update
+   34  sudo apt install git vim python2 python3
+   35  sudo apt install wps office2003-schemas 
+   36  sudo apt update
+   37  sudo apt upgrade
+   38  sudo apt full-upgrade
+   39  sudo apt dist-upgrade
+   40  sudo apt autoremove 
+   41  sudo apt autoclean 
+   42  id
+   43  sudo -i
+   44  SG
+   45  ls
+   46  ls -lh
+   47  ls -a
+   48  ls -lha
+   49  cd
+   50  cd /
+   51  ls
+   52  ls -lha
+   53  color 2
+   54  pwd
+   55  cd -
+   56  pwd
+   57  cd -
+   58  cd ~
+   59  pwd
+   60  ls]
+   61  ls
+   62  cd Documentos/
+   63  cd /
+   64  cd home/
+   65  cd home/Senac/Documentos
+   66  ls
+   67  doc
+   68  cd ~/Documentos/
+   69  cd .com
+   70  cd ..
+   71  history
+   72  cd home/Senac/Documentos
+   73  cd home/SEnac/Documentos/
+   74  cd ~/Documentos/
+   75  mkdir senac
+   76  ls
+   77  mkdir senac
+   78  mkdir SENAC
+   79  ls
+   80  mkdir -v tatuape
+   81  ls
+   82  cd senac/
+   83  mkdir -v Alisson Andrew Arthur Bruno Caio
+   84  ls
+   85  ls -lh
+   86  mkdir -v 'SENAC TATUAPÉ'
+   87  history
+   88  mkdir -v 'SENAC TATUAPÉ'
+   89  ls
+   90  cd home/SEnac/Documentos/
+   91  pwd
+   92  cd home/senac/Documentos/
+   93  cd ~/Documentos/
+   94  ls
+   95  lsh
+   96  cd ..
+   97  cd senac/
+   98  ls
+   99  cd ..
+  100  ls -lh
+  101  mkdir -v 'tat/ info/ tst/ est/ amd/' 
+  102  pwd
+  103  mkdir -p tat/info/tst/est/amd
+  104  ls
+  105  cd tat/
+  106  ls -lh
+  107  ls
+  108  cd info/
+  109  ls
+  110  cd ..
+  111  mkdir -p izaak/ samuel gadelha
+  112  ls
+  113  cd Documentos/
+  114  history
+  115  cd ~/Documentos/
+  116  ls
+  117  cd SENAC/
+  118  ls
+  119  cd ..
+  120  senac/
+  121  cd senac/
+  122  ls
+  123  rm - Rfv Alisson/
+  124  rm -Rfv Alisson/
+  125  rm -Rfv Andrew/ Arthur/ Bruno/ Caio/
+  126  exit
+  127  history
+senac@senac-VirtualBox:~$ 
+
