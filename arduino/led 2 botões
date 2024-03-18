@@ -28,3 +28,8 @@ void loop() {
     digitalWrite(13, LOW);
   }
 }
+
+
+
+Link para ver desenho
+https://www.tinkercad.com/things/e9yGwzVFaAk-led-2-botoes/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
