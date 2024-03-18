@@ -77,3 +77,12 @@ void loop() {
     digitalWrite(8, LOW);
   }
 }
+
+
+
+
+
+
+
+Link para desenho
+https://www.tinkercad.com/things/d7PdgjZM08P-desafio-pessoal-arduino/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
