@@ -74,3 +74,10 @@ void loop() {
     digitalWrite(13, LOW);
   }
 }
+
+
+
+
+
+Link para desenho
+https://www.tinkercad.com/things/lbYdJ4sszjD-desafio-pessoal-2/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
