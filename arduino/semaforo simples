@@ -1,0 +1,25 @@
+/**
+semaforo simples
+@author Izaak Samuel
+*/
+int tempo = 1000; 
+void setup()  {
+  pinMode(10, OUTPUT);
+  pinMode(11, OUTPUT);
+  pinMode(12, OUTPUT);
+}
+void loop() {
+  digitalWrite(10, HIGH);
+  delay(tempo);
+  digitalWrite(10, LOW);
+  delay(tempo);
+  digitalWrite(11, HIGH);
+  delay(tempo);
+  digitalWrite(11, LOW);
+  delay(tempo);
+  digitalWrite(12, HIGH);
+  delay(tempo);
+  digitalWrite(12, LOW);
+  delay(tempo);
+
+}
