@@ -61,3 +61,9 @@ digitalWrite(8, HIGH);
 delay(tempo);
 digitalWrite(8, LOW); 
 }
+
+
+
+
+Link para desenho
+https://www.tinkercad.com/things/0y7AvwO5ML8-desafio-arduino/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dcircuits
