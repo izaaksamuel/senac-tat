@@ -1,5 +1,5 @@
 
-PÁGINA CRIADA USANDO PHP HTML
+PÁGINA CRIADA USANDO PHP HTML PHP
 
 
 
@@ -27,3 +27,28 @@ PÁGINA CRIADA USANDO PHP HTML
 	</html>
 
 	
+
+PAGINA USANDO HTML
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <title>Teste da Linguagem HTML</title>
+            <meta charset="utf-8">
+        </head>
+        <body>
+            <h1>Teste da Linguagem HTML (HyperText Markup Language)</h1>
+            Autor: Robson Vaamonde<br>
+            Editado por: IZAAK SAMUEL<br>
+            Linkedin: <a href="https://www.linkedin.com/in/robson-vaamonde-0b029028/">Robson Vaamonde</a><br>
+            Site: <a href="procedimentosemti.com.br">procedimentosemti.com.br</a><br>
+            Site: <a href="procedimentosemti.com.br">procedimentosemti.com.br</a><br>
+            Facebook: <a href="facebook.com/ProcedimentosEmTI"> Procedimentos Em TI</a><br>
+            Facebook: <a href="facebook.com/BoraParaPratica">Bora Para Pratica</a><br>
+            Facebook: <a href="https://www.facebook.com/su.pera.376"> Samuel Gadelha</a><br>
+            Instagram: <a href="https://www.instagram.com/procedimentoem/?hl=pt-br">Procedimentos Em TI</a><br>
+            YouTube: <a href="youtube.com/BoraParaPratica">Bora Para Pratica</a><br>
+             <a href="http://10.26.44.221/izaak/izaak.php"> PAGINA PHP</a>
+            <img src="https://s4.static.brasilescola.uol.com.br/be/2022/06/estrela-ceu.jpg">
+            <img src="https://s3.static.brasilescola.uol.com.br/be/2023/09/1-escudo-do-corinthians.jpg">">
+        </body>
+    </html>
